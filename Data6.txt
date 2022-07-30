@@ -1,0 +1,180 @@
+Simbol: Md
+Nama: Mendelevium
+Konfigurasi: [Rn] 5f¹³ 7s²
+Sifat : Unsur ini termasuk ke
+dalam golongan aktinida. Unsur
+ini juga merupakan unsur 
+radioaktif.
+Fakta: Mendelevium adalah elemen 
+sintetik Unsur ini dinamai dari 
+Dmitri Mendeleev.
+Simbol : No
+Nama: Nobelium
+Konfigurasi: [Rn] 5f¹4 7s²
+Sifat: Nobelium adalah logam 
+sintetis yang sangat radioaktif.
+Fakta: Nobelium merupakan unsur
+yang berbahaya karena 
+radioaktivitasnya
+
+
+Simbol: Lr
+Nama: Lawrensium
+Konfigurasi : [Rn] 7s² 5f¹4 7p¹
+Sifat: Lawrensium memiliki sifat
+yang berbeda dari nobelium
+dipositif dan cenderung
+menyerupai unsur tripositif
+dalam seri aktinida.
+Fakta: Unsur ini merupakan unsur
+sintetik yang radioaktif.
+Simbol: Rf
+Nama: Rutherfordiium
+Konfigurasi: [Rn] 5f¹4 6d² 7s²
+Sifat: Lawrensium memiliki sifat
+yang berbeda dari nobelium
+dipositif dan cenderung
+menyerupai unsur tripositif
+dalam seri aktinida
+Fakta: Rutherfordium diciptakan
+oleh pengeboman nuklir.
+Simbol: Db
+Nama: Dubnium
+Konfigurasi:  [Rn] 5f¹4 6d³ 7s²
+Sifat: Dubnium adalah elemen 
+transactinida atau super-berat.
+Fakta: Nama unsur ini diambil 
+dari nama sebuah kota di Rusia,
+Dubna. Tempatnya pertama kali 
+ditemukan.
+
+Simbol: Sg
+Nama: Seaborgium
+Konfigurasi: [Rn] 7s² 5f¹4 6d4
+Sifat:  Seaborgium adalah logam
+sintetis radioaktif.
+Fakta: Elemen ini dinamai dari
+penemunya Nobel Glenn Theodore 
+Seaborg, ahli kimia nuklir
+Amerika untung mengenang
+penemuannya.
+Simbol: Bh
+Nama: Bohrium
+Konfigurasi: [Rn] 5f¹4 6d5 7s²
+Sifat: Bohrium bersifat 
+radioaktif.
+Fakta: Bohrium secara resmi
+dikenal sebagai Ns, Nielsbohrium.
+Bohrium adalah unsur kimia yang
+terberat adalah anggota kelompok 
+7 (VIIB).
+Simbol: Hs
+Nama: Hassium
+Konfigurasi: [Rn] 5f¹4 6d6 7s²
+Sifat: Hasum adalah unsur kimia
+sintetis, memiliki sifat kimia
+yang serupa dengan osmium dan
+warna abu-abu putih atau
+metalik abu-abu.
+Fakta: Ditemukan oleh Peter 
+Ambruster, Jerman di tahun 1984.
+Simbol: Mt
+Nama: Meitnerium
+Konfigurasi: [Rn] 5f¹4 6d7 7s²
+Sifat: Meitnerium adalah logam 
+radioaktif sintetis, dibuat 
+melalui pemboman nuklir,
+Fakta: Meitnerium adalah unsur 
+sintetis radioaktif yang 
+diklasifikasikan sebagai logam 
+dan padat pada suhu kamar.
+Simbol: Ds
+Nama: Darmstadtium
+Konfigurasi: [Rn] 5f¹4 6d8 7s²
+Sifat: Darmstadtium adalah unsur
+sintetis dalam tabel periodik 
+yang cepat meluruh.
+Fakta: Unsur Darmstatdium telah 
+menjadi subjek penelitian selama
+10 tahun karna keunikannya.
+
+Simbol: Rg
+Nama: Roentgenium
+Konfigurasi: [Rn] 5f¹4 6d? 7s²
+Sifat: Merupakan golongan 
+transisi dan merupakan logam.
+Fakta: Sifat kimia roentgenium 
+mungkin mirip dengan emas.
+
+
+
+Simbol: Cn
+Nama : Copernicium(Kopernisium)
+Konfigurasi: [Rn] 5f¹4 6d¹º 7s²
+Sifat: Unsur transuranium yang 
+diproduksi secara artifisial 
+bernomor atom 112.
+Fakta: Penemu menamakannya 
+copernicium, yang berasal dari 
+nama astronom Polandia Nicolaus 
+Copernicus, pada bulan Juli 2009.
+Simbol: Nh
+Nama: Nihonium
+Konfigurasi:[Rn] 5f¹4 6d¹º 7s² 
+                 7p¹
+Sifat: Merupakan unsur yang 
+bersifat radioaktif
+Fakta: Nama yang diberikan untuk
+unsur radioaktif itu berasal dari
+kata “nihon” yang berarti 
+“Jepang” dalam bahasa Jepang.
+Simbol: Fl
+Nama: Flerovium
+Konfigurasi: [Rn] 5f¹4 6d¹º 7s² 
+                  7p²
+Sifat: Flerovium merupakan logam
+radioaktif sintetis, dibuat 
+melalui pemboman nuklir.
+Fakta: Flevorium diduga memiliki
+sifat-sifat gas mulia daripada 
+sifat-sifat logam.
+Simbol: Mc
+Nama: Moscovium
+Konfigurasi: [Rn] 5f¹4 6d¹º 7s² 
+                  7p³
+Sifat: Moscovium adalah unsur 
+sintetis radioaktif yang sedikit
+diketahui. Ini diklasifikasikan
+sebagai logam.
+Fakta: Karena sangat tidak stabil
+sehingga unsur ini cepat terurai.
+Simbol: Lv
+Nama: Livermorium
+Konfigurasi: [Rn] 5f¹4 6d¹º 7s² 
+                  7p4
+Sifat: Livermorium adalah logam
+radioaktif sintetis dan hanya 
+diproduksi dalam jumlah kecil.
+Fakta: Tidak memiliki fungsi yang
+diketahui dan masih sedikit yang
+diketahui tentangnya.
+Simbol: Ts
+Nama: Tenesin(Unuseptium)
+Konfigurasi: [Rn] 5f¹4 6d¹º 7s² 
+                  7p5
+Sifat: Tenesin merupakan salah 
+satu unsur terberat.
+Fakta: Tidak ada kegunaan yang 
+diketahui di luar penelitian 
+dasar dan eksperimental kimia.
+Uus tidak ditemukan di alam bebas
+
+Simbol: Og
+Nama: Oganeson
+Konfigurasi: [Rn] 5f¹4 6d¹º 7s² 
+                  7p6
+Sifat: Penghantar panas dan 
+listrik yang baik, dapat ditempa 
+dan diregangkan
+Fakta: Oganeson memiliki nomor 
+atom dan massa atom tertinggi.

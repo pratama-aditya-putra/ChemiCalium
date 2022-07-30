@@ -1,0 +1,197 @@
+Simbol: H
+Nama: Hidrogen
+Konfigurasi: 1s1
+Sifat: Non Logam
+Fakta: Hidrogen digunakan
+sebagai bahan bakar utama
+untuk kendaraan bermotor
+
+
+Simbol: He	
+Nama: Helium
+Konfigurasi: 1s2
+Sifat: Non logam
+Fakta: Helium dapat merubah
+suara seseorang menjadi
+melengking seperti suara
+donald bebek
+
+
+
+Simbol: Li
+Nama: Litium
+Konfigurasi: [He] 2s1
+Sifat: Logam Alkali
+Fakta: Litium biasa digunakan
+dalam pembuatan baterai dan
+merupakan elemen terpenting
+
+
+
+Simbol: Be
+Nama : Berilium
+Konfigurasi : [He] 2s2
+Sifat: Logam Alkali Tanah
+Fakta: Berilium digunakan pada
+deteksi diagnotis x-ray
+
+
+
+
+Simbol: B
+Nama : Boron
+Konfigurasi :[He] 2s2 2p1
+Sifat: Ikosagens
+Fakta: Boron digunakan untuk
+mengendalikan reaksi nuklir
+
+
+
+
+Simbol: C
+Nama: Karbon
+Konfigurasi: [He] 2s2 2p2
+Sifat: kristalogen 
+Fakta: Karbon sebagai bahan
+utama membuat warna hitam
+pada pensil
+
+
+
+Simbol: N
+Nama: Nitrogen
+Konfigurasi: [He] 2s2 2p3
+Sifat: pnictogen
+Fakta: Nitrogen sebagai
+komponen terbesar dalam
+udara yang kita hirup
+
+
+
+Simbol: O
+Nama: Oksigen
+Konfigurasi: [He] 2s2 2p4
+Sifat: Kalsogen
+Fakta: Oksigen juga ada di
+luar angkasa gas ini
+dihasilkan dari pembakaran 
+karbon dan helium pada bintang  
+
+
+Simbol: F
+Nama: Flor
+Konfigurasi: [He] 2s2 2p5
+Sifat: Halogen
+Fakta: Flour terdapat di dalam
+pasta gigi dan air minum,di
+teflon,dan juga obat-obatan
+
+
+
+Simbol: Ne
+Nama: Neon
+Konfigurasi: [He] 2s2 2p6 
+Sifat: Gas Mulia
+Fakta: Neon digunakan dalam
+pembuatan lampu iklan dan
+display lainnya
+
+
+
+Simbol: Na
+Nama: Natrium
+Konfigurasi:  [Ne] 3s1
+Sifat: Logam Alkali
+Fakta: Natrium digunakan dalam
+memperbaiki struktur logam,
+digunakan dalam sabun,
+dikombinasikan dengan asam lemak,
+serta untuk memurnikan logam cair
+
+Simbol: Mg
+Nama: Magnesium
+Konfigurasi: [Ne] 3s2
+Sifat: Logam Alkali Tanah
+Fakta: Magnesium dapat menjaga
+kesehatan tulang,menurunkan
+tekanan darah, meningkatkan
+kesehatan kardiovaskular
+
+
+Simbol: Al
+Nama: Aluminium
+Konfigurasi: [Ne] 3s2 3p1
+Sifat: Ikosagens
+Fakta: Pertengahan tahun
+1880an, aluminium lebih ber-
+harga daripada emas. Karena
+banyak peralatan yang
+diciptakan dari aluminium
+
+Simbol: Si
+Nama: Silikon
+Konfigurasi: [Ne] 3s2 3p2
+Sifat: Kristalogen
+Fakta: Zat semikonduktor
+dalam alat-alat elektronik
+
+
+
+
+Simbol: P
+Nama: Fosfor
+Konfigurasi:[Ne] 3s2 3p3 
+Sifat: pnictogen
+Fakta: Digunakan dalam
+senjata militer, sebagai
+penerang,penanda,hingga
+peledak
+	
+
+Simbol: S
+Nama: Sulfur
+Konfigurasi: [Ne] 3s2 3p4
+Sifat: Kalsogen
+Fakta: Sebagai penyembuh
+penyakit kulit (kurap)
+
+
+
+
+Simbol: Cl
+Nama: Klorin
+Konfigurasi: [Ne] 3s2 3p5
+Sifat: Halogen
+Fakta: Digunakan dalam
+desinfektan,pemutih,
+gas mustard.
+
+
+
+Simbol: Ar
+Nama: Argon
+Konfigurasi: [Ne] 3s2 3p6
+Sifat: Gas Mulia 
+Fakta: Digunakan pada scuba
+diving untuk engembangkan
+drysuit karena sifat yang
+tidak reaktif serta kemampuan 
+mengisolasi panas
+
+Simbol: K
+Nama: Kalium
+Konfigurasi: [Ar] 4s1  
+Sifat: Logam Alkali 
+Fakta: Kalium berfungsi
+dalam mengatur keseimbangan
+kadar air dalam tubuh
+	
+
+
+Simbol: Ca
+Nama: Kalsium
+Konfigurasi: [Ar] 4s2
+Sifat: Logam Alkali Tanah
+Fakta: Kalsium lebih penting
+bagi wanita karena dapat
+meredakan gejala Pramenstruasi	

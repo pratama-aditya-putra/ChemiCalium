@@ -1,0 +1,30 @@
+==================================================================================================================
+|                                                      KIMIA DASAR                                               |
+==================================================================================================================
+|       Dunia kita adalah dunia kimia. Seluruh aspek        |   >  Hukum Perbandingan Tetap : Hukum Proust       |
+| kehidupan kita  tidak jauh dan selalu berkaitan dengan    |    "Perbandingan massa unsur-unsur dalam tiap-tiap |
+| kimia. Coba kita perhatikan, dari mulai bangun tidur      |    senyawa adalah tetap"                           |
+| lalu mandi, ada selimut, bantal, guling, sabun, odol,     |    > Hukum-Hukum Gas                               |
+| shampoo, sikat gigi, handuk. Ketika sarapan pagi,         |    Untuk gas ideal berlaku persamaan : PV : nRT    |
+| bertemu lagi dengan bahan kimia, seperti nasi, lauk,      | 3. Padat & Cair Serta Perubahannya                 |
+| sayur, piring, sendok, garpu, dan lain-lain. Dapatkah     |    Zat Padat                                       |
+| kita menghitung berapa banyak bahan kimia yang ada di     |    Ada 2 jenis padatan:                            |
+| kamar tidur, kamar mandi, ruang tamu, ruang makan kita?   |    (1) amorf, mempunyai titik lebur yang tidak     |
+| Tidak pernah seharipun kita tidak berhubungan dengan      |        tegas.Contoh:kaca                           |
+| bahan kimia. Pada tingkat perguruan tinggi kimia dasar    |    (2) kristal,mempunyai titik lebur yang tegas    |
+| menjadi landasan penting, berikut materi-materi pada      |        dan susunannya teratur                      |
+| kimia dasar dan sedikit pengenalannya :                   |    Zat Cair                                        |
+| 1. Ikatan Kimia                                           |    Pada keadaan gas, atom-atom atau                |
+|       Ikatan kimia terbagi atas 2 yaitu ikatan ion dan    |    molekul-molekul  terletak saling berjauhan.     |
+| ikatan kovalen.Ikatan ion adalah ikatan yang terbentuk    | 4. Teori Kinetik Gas                               |
+| antara atom yang melepaskan elektron dan atom yang        |    Gas dianggap terdiri atas molekul-molekul gas   |
+| menerima elektron. Ion positif terbentuk dari atom yang   |    yang disebut partikel. Teori ini tidak          |
+| melepaskan elektron.  Ikatan kovalen adalah ikatan antar  |    mengutamakan kelakuan sebuah partikel tetapi    |
+| atom yang di bentuk dengan penggunaan bersama pasangan    |    meninjau sifat zat secara keseluruhan sebagai   |
+| electron oleh atom-atom yang berikatan.                   |    hasil rata-rata kelakuan partikel tersebut.     |
+| 2. Hukum-Hukum Kimia                                      | 5. Stoikiometri (stoi-kee-ah-met-tree)             |
+|   Pada ilmu kimia, terdapat beberapa hukum yaitu :        |    Salah satu aspek penting dari reaksi kimia      |
+|   > Hukum Kekekalan Massa : Hukum Lavoisier               |    adalah hubungan kuantitatif antara zat-zat      |
+|     "Massa zat-zat sebelum dan sesudah reaksi             |    yang terlibat dalam reaksi kimia.    ===========|
+|     adalah tetap"                                         |                                         |  [Esc]   |
+==================================================================================================================

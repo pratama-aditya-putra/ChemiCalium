@@ -1,0 +1,198 @@
+Simbol: Tl
+Nama: Talium
+Konfigurasi: [Xe] 4f14  5d10 6s2 
+                  6p1
+Sifat: Logam
+Fakta: Logam ini sangat beracun 
+dan pernah digunakan sebagai 
+bahan racun tikus dan insektisida.
+
+
+Simbol: Pb
+Nama: Timbal
+Konfigurasi: [Xe] 4f14 5d10 6s2
+                  6p2
+Sifat: Logam pasca-transisi
+Fakta: Logam ini relatif murah 
+dan banyak ditemukan sumbernya, 
+sehingga sering digunakan 
+manusia, termasuk untuk bangunan
+
+Simbol: Bi
+Nama: Bismut
+Konfigurasi: [Xe] 4f14 5d10 6s2
+                  6p3
+Sifat: Logam pasca-transisi
+Fakta:  Senyawa bismut bebas 
+timbal sering digunakan sebagai
+bahan kosmetik dan dalam bidang
+medis.
+
+Simbol: Po
+Nama: Polonium
+Konfigurasi: [Xe] 6s2 4f14 5d10
+                  6p4
+Sifat: Logam transisi
+Fakta: Polonium adalah unsur yang
+sangat jarang di alam. Jumlah 
+elemen ini terjadi dalam batuan
+yang mengandung radium.
+
+Simbol: At
+Nama: Astatin
+Konfigurasi: [Xe] 4f14 5d10 6s2
+                  6d5
+Sifat: Halogen
+Fakta: Nama unsur ini berasal 
+dari bahasa Yunani "astatos" 
+"tak stabil". Unsur ini termasuk
+golongan halogen dan merupakan 
+unsur radioaktif.
+Simbol: Rn
+Nama: Radon
+Konfigurasi: [Xe] 4f14 5d10 6s2
+                  6p6
+Sifat: Gas mulia
+Fakta: Radon dapat memicu kanker
+paru paru dan telah menyebabkan 
+20.000 kematian di Uni Eropa 
+setiap tahunnya.
+
+Simbol: Fr
+Nama: Fransium
+Konfigurasi: [Rn] 7s1
+Sifat: Logam alkali
+Fakta: Fransium dalam bentuk 
+bongkahan belum pernah terlihat
+karena logam ini sangat reaktif
+
+
+
+Simbol: Ra
+Nama: Radium
+Konfigurasi: [Rn] 7s2
+Sifat: Logam alkali tanah
+Fakta: Radium mempunyai tingkat
+radioaktivitas yang tinggi.
+
+
+
+
+Simbol: Ac
+Nama: Aktinium
+Konfigurasi: [Rn]  6d1 7s2
+Sifat: Aktinida
+Fakta:  Karena kelangkaannya,
+harganya yang tinggi dan
+radioaktivitasnya, aktinium
+tidak memiliki kegunaan industri
+yang signifikan.
+
+Simbol: Th
+Nama: Torium
+Konfigurasi: [Rn] 6d2 7s2
+Sifat: Aktinida
+Fakta: Ytterbium logam 
+teroksidasi dengan cepat jika 
+terkena udara. Ytterbium logam
+dapat larut dengan cepat dalam
+asam Mineral.
+
+Simbol: Pa
+Nama: Protaktinium
+Kongfigurasi: [Rn] 5f2 6d1 7s2
+Sifat: Aktinida
+Fakta: Nama elemen berasal dari
+kombinasi kata Yunani ‘protos’ 
+yang berarti pertama dan 
+‘aktinium'.
+
+
+Simbol: U
+Nama: Uranium
+Konfigurasi: [Rn] 5f3 6d1 7s2
+Sifat: Aktinida
+Fakta: Uranium memiliki bobot 
+atom terberat kedua (setelah 
+plutonium) di antara semua 
+unsur-unsur kimia yang dapat 
+ditemukan secara alami.
+
+Simbol: Np
+Nama: Neptunium
+Konfigurasi: [Rn] 5f4 6d1 7s2
+Sifat: Aktinida
+Fakta: Digunakan untuk komponen
+perangkat pendeteksi neutron
+
+
+
+
+Simbol: Pu
+Nama: Plutonium
+Konfigurasi: [Rn] 5d6 7s2
+Sifat: Aktinida
+Fakta: Penemuan plutonium 
+kemudian menjadi bagian penting
+dalam Proyek Manhattan untuk 
+mengembangkan bom atom selama 
+Perang Dunia II.
+
+Simbol: Am
+Nama: Amerisium
+Konfigurasi: [Rn] 5f7 7s2
+Sifat: Aktinida
+Fakta: Nama elemen ini diambil 
+dari naman negara Amerika 
+sementara penggunaanya antara 
+lain adalah sebagai detektor 
+asap.
+
+Simbol: Cm
+Nama: Curium
+Konfigurasi: [Rn] 5f7 6d1 7s2
+Sifat: Aktinida
+Fakta: Nama elemen ini diambil
+dari nama ilmuwan Marie Curie.
+
+
+
+
+Simbol: Bk
+Nama: Berkelium
+Konfigurasi: [Rn] 5f9 7s2
+Sifat: Aktinida
+Fakta: Berkelium merupakan 
+unsur transuranium kelima 
+yang berhasil disintesis.
+
+
+
+Simbol: Cf
+Nama: Kalifornium
+Konfigurasi: [Rn] 5f10 7s2
+Sifat: Aktinide
+Fakta: Zat ini dihargai 
+sebesar 315 miliar dollar
+
+
+
+
+Simbol: Es
+Nama: Einstenium
+Konfigurasi: [Rn] 5f11 7s2
+Sifat: Aktinida
+Fakta: Namanya diambil dari 
+nama Albert Einstein dan belum 
+diketahui penggunaannya.
+
+
+
+Simbol: Fm
+Nama: Fermium
+Konfigurasi: [Rn] 5f12 7s2
+Sifat: Aktinida
+Fakta: Ditemukan secara tak 
+terduga bersama dengan 
+einsteinium dalam puing-puing 
+dari tes bom hidrogen pertama.

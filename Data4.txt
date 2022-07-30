@@ -1,0 +1,200 @@
+Simbol: Pm
+Nama: Prometium
+KOnfigurasi: [Xe] 4f5  6s²
+Sifat: lantanida
+Fakta: logam promethium ditemukan
+di bijih-bijih uranium.
+Promethium logam logam yang
+sangat radioaktif.
+
+
+Simbol: Sm
+Nama: Samarium
+Konfigurasi: [Xe] 4f6 6s²
+Sifat: lantanida
+Fakta: Samarium logam membantu
+merangsang metabolisme tubuh.
+
+
+
+
+Simbol: Eu
+Nama: Europium
+Konfigurasi: [Xe] 4f7 6s²
+Sifat: lantanida
+Fakta: Europium logam digunakan
+sebagai paduan dengan Vanadium
+untuk membuatnya lebih lembut.
+Studi terbaru menunjukkan bahwa
+hal itu bermanfaat untuk
+metabolisme.
+Simbol: Gd
+Nama: Gadolinium
+Konfigurasi: [Xe] 4f7 5d¹ 6s²
+Sifat: lantanida
+Fakta: Gadolinium tidak ditemukan
+bebas di alam, karena itu bukan
+logam asli. Logam gadolinium
+ditemukan di mineral  seperti
+Monazite dan Bastnaesite.
+
+Simbol: Tb 
+Nama: Terbium
+Konfigurasi: [Xe] 4f? 6s²
+Sifat: lantanida
+Fakta: Pada saat Terbium logam
+bertindak sama seperti Kalsium.
+Logam TB erat mirip dengan logam
+Lantanum.
+
+
+Simbol: Dy 
+Nama: Disporium
+Konfigurasi: [Xe] 4f¹° 6s²
+Sifat: latanida
+Fakta: Dysprosium bertindak
+stabil di udara pada suhu kamar.
+Dysprosium berperilaku seperti
+logam paramagnetik/
+
+
+Simbol: Ho
+Nama: holmium
+Konfigurasi: [Xe] 4f¹¹ 6s²
+Sifat: latanida
+Fakta: logam Holmium sangat lembut
+dan lunak. Logam Holmium terkenal
+resistivitas korosi.
+
+
+
+Simbol: Er
+Nama: Erbium
+Konfigurasi: [Xe] 4f¹² 6s²
+Sifat: latanida
+Fakta: Erbium logam digunakan
+sebagai paduan dengan  Vanadium
+untuk membuatnya lebih lembut.
+
+
+
+Simbol: Tm
+Nama: Tulium
+Konfigurasi: [Xe] 4f¹³ 6s²
+Sifat: latanida
+Fakta: Thulium logam dapat 
+menahan korosi karena udara 
+kering. Hanya Tm-169 isotop logam
+Thulium terjadi secara alami.
+
+
+Simbol: Yb
+Nama: Iterbium
+Konfigurasi: [Xe] 4f¹4 6s²
+Sifat: latanida
+Fakta: Ytterbium logam 
+teroksidasi dengan cepat jika 
+terkena udara. Ytterbium logam
+dapat larut dengan cepat dalam
+asam Mineral.
+
+Simbol: Lu
+Nama: Lutesium
+Kongfigurasi: [Xe] 4f¹4 5d¹ 6s²
+Sifat: Latanida
+Fakta: Logam debu Lutetium elemen
+sangat eksplosif. Lutetium logam 
+tahan korosi dan bertindak stabil
+di udara.
+
+
+Simbol: Hf 
+Nama: Hafnium
+Konfigurasi: [Xe] 4f¹4 5d² 6s²
+Sifat: logam transisi
+Fakta: Hafnium logam yang sangat
+reaktif, maka tidak ditemukan 
+bebas di alam. Logam hafnium 
+sebagai berpredikat setelah 
+Mendeleev selesai tabel 
+periodik nya.
+Simbol: Ta
+Nama: Tatalum
+Konfigurasi: [Xe] 4f¹4 5d³ 6s²
+Sifat: Logam transisi
+Fakta: Tantalum logam dikenal 
+sebagai ketahanan korosi. 
+Tantalum logam dapat dengan 
+mudah dibuat dan itu adalah 
+konduktor panas dan listrik.
+
+Simbol: W 
+Nama: Wolfram
+Konfigurasi: [Xe] 4f¹4 5d4 6s²
+Sifat: Logam transisi
+Fakta: Unsur Tungsten memiliki 
+titik lebur tertinggi kedua.
+tungsten murni dapat dengan mudah
+ditebang dengan bantuan gergaji 
+besi.
+
+Simbol: Re
+Nama: Renium
+Konfigurasi: [Xe] 4f¹4 5d5 6s²
+Sifat: Logam transisi
+Fakta: Sifat kimia dari Renium 
+mirip dengan Mangan. Logam renium
+dibuat sementara menyempurnakan 
+Molybdenum.
+
+
+Simbol: Os
+Nama: Osmium
+Konfigurasi: [Xe] 4f¹4 5d6 6s²
+Sifat: logam transisi
+Fakta: Osmium logam tidak 
+teroksidasi di udara kecuali 
+dipanaskan. Tetapi jika 
+dipanaskan den membentuk Osmium
+tetroxide, yang sangat beracun.
+
+Simbol: Ir
+Nama: Iridium
+Konfigurasi: [Xe] 4f¹4 5d7 6s²
+Sifat: logam transisi
+Fakta: Unsur iridium terjadi 
+sebagai paduan alami dari 
+Platinum dan Osmium. Unsur 
+iridium dikenal sebagai yang 
+paling logam tahan korosi.
+
+Simbol: Pt
+Nama: Platina
+Konfigurasi: [Xe] 4f¹4 5d? 6s¹
+Sifat: Logam transisi
+Fakta: Platinum adalah logam 
+paling langka dari kategori 
+logam mulia. Komersial Platinum
+diproduksi sebagai produk 
+sampingan dalam bijih nikel.
+
+Simbol: Au
+Nama: Aurum(emas)
+Konfigurasi: [Xe] 4f¹4 5d¹° 6s¹
+Sifat: Logam transisi
+Fakta: Emas Merupakan Logam 
+Paling Lunak Emas Bernilai 
+Investasi Tinggi
+
+
+
+Simbol: Hg
+Nama: Raksa
+Konfigurasi: [Xe] 4f¹4 5d¹° 6s²
+Sifat: logam transisi
+Fakta: Pada suhu kamar merkuri
+ditemukan dalam keadaan cair.
+Sebuah koin pound atau rupee 
+mengapung di merkuri. Karena 
+titik leleh dan titik didih yang 
+rendah digunakan dalam termometer

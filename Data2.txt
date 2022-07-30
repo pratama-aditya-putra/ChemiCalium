@@ -1,0 +1,199 @@
+Simbol: Sc
+Nama: Skandium
+Konfigurasi: [Ar]3d1 4s2
+Sifat: logam transisi
+Fakta: logam lunak, ringan,
+putih keperakan, menjadi
+sedikit berubah warna men-
+jadi warna kuning atau 
+merah muda saat terkena
+udara.
+Simbol: Ti 
+Nama: titanium
+Konfigurasi: [Ar]3d2 4s2
+Sifat: logam transisi
+Fakta: tahan pengikisan 20x
+lebih besar daripada logam
+campuran tembaga nikel.
+
+
+
+Simbol: V 
+Nama: vanadium
+Konfigurasi: [Ar]3d3 4s2
+Sifat: logam transisi
+Fakta: logam abu-abu yang
+keras dan tersebar luas
+dikulit bumi sekitar
+0,02 % massa.
+
+
+Simbol: Cr 
+Nama: kromium
+Konfigurasi: [Ar]3d5 4s1
+Sifat: logam transisi
+Fakta: Kromium diketahui ber-
+efek negatif pada kesehatan
+manusia, terutama bagi
+mereka yang bekerja di
+industri baja dan tekstil.
+
+Simbol: Mn 
+Nama: mangan
+Konfigurasi: [Ar]3d5 4s2
+Sifat: logam transisi
+Fakta: unsur penting dalam
+fotosintesis. Tanpa itu,
+tidak akan ada oksigen
+bebas di bumi.
+
+
+Simbol: Fe 
+Nama: besi
+Konfigurasi: [Ar]3d6 4s2
+Sifat: logam transisi
+Fakta: Besi berkarat
+terutama di udara lembab
+dan terpapar udara.
+
+
+
+Simbol: Co
+Nama: kobalt
+Konfigurasi: [Ar]3d7 4s2
+Sifat: logam transisi
+Fakta: stabil di udara dan
+tidak terpengaruh oleh air,
+namun perlahan-lahan larut
+oleh asam encer.
+
+
+Simbol: Ni
+Nama: nikel
+Konfigurasi: [Ar]3d8 4s2
+Sifat: logam transisi
+Fakta: konduktor panas dan
+listrik yang cukup baik.
+
+
+
+
+Simbol: Cu
+Nama: tembaga
+Konfigurasi: [Ar]3d10 4s1
+Sifat: logam transisi
+Fakta: manusia purba meng-
+gunakan tembaga untuk per-
+hiasan, alat-alat, dan
+senjata.
+
+
+Simbol: Zn
+Nama: seng
+Konfigurasi: [Ar]3d10 4s2
+Sifat: logam transisi
+Fakta: Seng terjadi secara
+alami di udara, air dan
+tanah, tetapi peningkatan
+konsentrasi seng umumnya
+disebabkan oleh
+aktivitas manusia.
+Simbol: Ga
+Nama: galium
+Konfigurasi: [Ar]3d10 4s2 4p1
+Sifat: logam pascatransisi
+Fakta: gallium akan sangat
+mudah meleleh di
+tangan kosong.
+
+
+
+Simbol: Ge
+Nama: germanium
+Konfigurasi: [Ar]3d10 4s2 4p2
+Sifat: Metaloid
+Fakta: Mayoritas germanium
+yang ditambang diproduksi
+oleh China.
+
+
+
+Simbol: As
+Nama: arsenik
+Konfigurasi: [Ar]3d10 4s2 4p3
+Sifat: Metaloid
+Fakta: digunakan sebagai
+racun pembunuh selama
+ribuan tahun.
+
+
+
+Simbol: Se
+Nama: selenium
+Konfigurasi: [Ar]3d10 4s2 4p4
+Sifat: Nonlogam
+Fakta: Selenium dapat di
+temukan dalam mesin
+fotokopi dan dalam
+toning foto.
+
+
+Simbol: Br
+Nama: bromin
+Konfigurasi: [Ar]3d10 4s2 4p5
+Sifat: halogen
+Fakta: memiliki bau kuat
+yang menyengat.
+
+
+
+
+Simbol: Kr
+Nama: kripton
+Konfigurasi: [Ar]3d10 4s2 4p6
+Sifat: gas mulia
+Fakta: Penggunaan krypton
+pentingada pada lampu
+landasan pacu bandara
+bertenaga tinggi.
+
+
+Simbol: Rb
+Nama: rubidium
+Konfigurasi: [Kr]5s1
+Sifat: Logam alkali
+Fakta: terbakar secara
+spontan di udara dan
+bereaksi hebat dengan air
+dan bahkan dengan es pada
+suhu -100 C untuk
+melepaskan hidrogen.
+Simbol: Sr
+Nama: stronsium
+Konfigurasi: [Kr]5s2
+Sifat: logam alkali tanah
+Fakta: cepat bereaksi dengan
+air dan udara sehingga harus
+disimpan dalam wadah yang
+tidak memungkinkannya kontak
+dengan air dan udara.
+
+Simbol: Y
+Nama: yttrium
+Konfigurasi: [Kr]4d1 5s2
+Sifat: logam transisi
+Fakta: unsur tanah langka
+pertama yang ditemukan.
+
+
+
+
+Simbol:  Zr
+Nama: zirkonium
+Konfigurasi: [Kr]4d2 5s2
+Sifat: logam transisi
+Fakta: Zirkonium dan garamnya
+umumnya memiliki sifat racun
+rendah. Perkiraan asupan
+dari makanan adalah sekitar
+50 mikrogram.

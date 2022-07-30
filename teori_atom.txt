@@ -1,0 +1,30 @@
+==================================================================================================================
+|                                                 TEORI ATOM                                                     |
+==================================================================================================================
+|      Dalam kimia & fisika teori atom adalah teori ilmiah   |  Teori atom Dalton menyatakan bahwa:              |
+| sifat alami materi, yang menyatakan bahwa materi tersusun  |  1. Setiap unsur tersusun dari partikel yang      |
+| atas satuan terkecil yang disebut atom. Ini dimulai dari   |     sangat teramat kecil yang disebut atom.       |
+| konsep filosofis pada masa Yunani kuno dan menjadi aliran  |  2. atom tidak dapat diciptakan ataupun           |
+|  ilmiah utama di awal abad ke-19, ketika diungkap dalam    |     dimusnahkan dalam reaksi kimia.               |
+|   bidang kimia. Ilmu kimia ini membuktikan bahwa materi    |  3. Senyawa terbentuk dari kombinasi atom-atom    |
+|   memang berperilaku seperti ia tersusun atas atom-atom.   |     dari unsur-unsur yang berbeda dengan rasio    |
+|  Istilah atom berasal dari kata sifat Yunani Kuno atomos,  |     atom yang spesifik.                           |
+|  yang berarti "tidak dapat dipecah". Kimiawan abad ke-19   |  Teori atom Dalton ini memberikan gambaran model  |
+|  mulai menggunakan istilah sehubungan dengan meningkatnya  |  atom seperti model bola pejal                    |
+|    jumlah unsur kimia yang tidak dapat diperkecil lagi.    |  Teori Atom J.J. Thomson                          |
+|  Meskipun tampaknya benar, sekitar pergantian abad ke-20,  |  Teori Atom Thomson adalah salah satu teori yang  |
+|  melalui berbagai eksperimen dengan elektromagnetisme dan  |  mencoba mendeskripsikan bentuk atom yaitu        |
+| radioaktivitas, fisikawan menemukan bahwa apa yang disebut |  seperti bentuk roti kismis.                      |
+| "atom yang tidak dapat dipecah" sebenarnya adalah gabungan |  Teori Atom Rutherford                            |
+|  berbagai partikel subatomik (terutama, elektron, proton   |  Teori atom Rutherford mengatakan bahwa atom      |
+| dan neutron) yang dapat ada secara terpisah dari satu sama |  mempunyai inti yang merupakan pusat massa yang   |
+|   lain. Bahkan, di lingkungan ekstrem tertentu, seperti    |  kemudian dinamakan nukleus, dengan dikelilingi   |
+|   bintang neutron, suhu dan tekanan ekstrem sama sekali    |  awan elektron bermuatan negatif.                 |
+|   mencegah pembentukan atom. Karena atom yang ditemukan    |  Teori Atom Bor                                   |
+|   dapat dibagi, fisikawan kemudian menciptakan istilah     |  Model Bohr dari atom hidrogen menggambarkan      |
+|   "partikel elementer" untuk menggambarkan bagian yang     |  elektron-elektron bermuatan negatif mengorbit    |
+|   "tak bisa dipotong", meskipun bisa dihancurkan, dari     |  pada kulit atom dalam lintasan tertentu          |
+|    sebuah atom. Bidang ilmu yang mempelajari partikel      |  mengelilingi inti atom yang bermuatan positif.   |
+|  subatomik adalah fisika partikel, dan di bidang ini para  |                                         ==========|
+|  berharap dapat menemukan sifat dasar sejati suatu materi. |                                         |  [Esc]  |
+==================================================================================================================

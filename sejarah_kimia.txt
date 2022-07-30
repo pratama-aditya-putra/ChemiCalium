@@ -1,0 +1,29 @@
+==================================================================================================================
+|                                               SEJARAH KIMIA                                                    |
+==================================================================================================================
+|       Sejarah kimia merepresentasikan rentang waktu dari   |     Kimia sering disebut sebagai "ilmu pusat"     |
+| sejarah kuno sampai sekarang. Pada 1000 SM, peradaban      | karena menghubungkan. berbagai ilmu lain,         |
+| menggunakan teknologi yang pada akhirnya akan membentuk    | seperti fisika, ilmu bahan,                       |
+| basis berbagai cabang ilmu kimia. Contohnya termasuk       | nanoteknologi, biologi, farmasi, kedokteran,      |
+| mengekstraksi logam dari bijihnya, membuat tembikar dan    | bioinformatika, dan geologi. Koneksi ini timbul   |
+| glasir, memfermentasi bir dan anggur, mengeluarkan bahan   | melalui berbagai subdisiplin yang memanfaatkan    |
+| kimia dari tumbuh-tumbuhan untuk obat-obatan dan parfum,   | konsep-konsep dari berbagai disiplin ilmu.        |
+| mengubah lemak menjadi sabun, membuat kaca, dan membuat    | Sebagai contoh, kimia fisik melibatkan penerapan  |
+| paduan seperti perunggu                                    | prinsip-prinsip fisika terhadap materi pada       |
+|       Kimia adalah cabang dari ilmu fisik yang             | tingkat atom dan molekul.                         |
+| mempelajari tentang susunan, struktur, sifat,dan           |     Kimia berhubungan dengan interaksi materi     |
+| perubahan materi. Ilmu kimia meliputi topik-topik seperti  | yang dapat melibatkan dua zat atau antara materi  |
+| sifat-sifat atom, cara atom membentuk ikatan kimia untuk   | dan energi, terutama dalam hubungannya dengan     |
+| menghasilkan senyawa kimia, interaksi zat-zat melalui      | hukum pertama termodinamika. Kimia tradisional    |
+| gayaantarmolekul yang menghasilkan sifat-sifat umum dari   | melibatkan interaksi antara zat kimia dalam       |
+| materi, dan interaksi antar zat melalui reaksi kimia untuk | reaksi kimia, yang mengubah satu atau lebih zat   |
+| membentuk zat-zat yang berbeda. Kimia kadang-kadang        | menjadi satu atau lebih zat lain.                 |
+| disebut sebagai ilmu pengetahuan pusat karena menjembatani |                                                   |
+| ilmu-ilmu pengetahuan alam, termasuk fisika, geologi, dan  | Cabang-cabang dari ilmu kimia :                   |
+| biologi. Para ahli berbeda pendapat mengenai etimologi     |                                                   |
+| dari kata kimia. Sejarah kimia dapat ditelusuri kembali    | 1. Geokimia                                       |
+| sampai pada alkimia, yang sudah dipraktikkan               | 2. Elektrokimia                                   |
+| selama beberapa milenia di berbagai belahan dunia.         | 3. Mekanika kuantum/kimia kuantum                 |
+|                                                            | 4. Termodinamika                        ==========|
+|                                                            |                                         |  [Esc]  |
+==================================================================================================================

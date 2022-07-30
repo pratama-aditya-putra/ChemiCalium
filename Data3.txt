@@ -1,0 +1,198 @@
+Simbol: Nb
+Nama: Niobium
+Konfigurasi: [Kr] 4d4 5s¹
+Sifat: Logam Transisi
+Fakta: Dapat digunakan untuk
+paduan logam atau stainless
+tahan panas
+
+
+
+Simbol: Mo
+Nama: Molibdenum
+Konfigurasi:[Kr] 4d5 5s¹
+Sifat: Logam Transisi
+Fakta: Dapat digunakan sebagai
+nutrisi tanaman
+
+
+
+
+Simbol: Tc
+Nama: Teknesium
+Konfigurasi:[Kr] 4d5 5s²
+Sifat: Logam Transisi
+Fakta: Superkonduktor yang
+sangat baik
+
+
+
+
+Simbol: Ru
+Nama: Rutenium
+Konfigurasi: [Kr] 4d7 5s¹
+Sifat: Logam Transisi
+Fakta: Penemuan tidak sengaja
+saat penemuan unsur paladium
+ini dirancang untuk
+membersihkan emisi kendaraan
+
+
+Simbol: Rh
+Nama: Rodium
+Konfigurasi: [Kr] 4d8 5s¹
+Sifat: Logam Transisi
+Fakta: Unsur yg paling langka
+& paling berharga jauh di atas
+emas serta perak ini memiliki
+arti nama bunga mawar karena
+warnanya yang mirip mawar
+
+Simbol: Pd
+Nama: Paladium
+Konfigurasi: [Kr] 4d¹°
+Sifat: Logam Transisi
+Fakta: Digunakan untuk cincin
+pernikahan sebagai pengganti
+cincin emas untuk pria 
+
+
+
+Simbol: Ag
+Nama: Perak
+Konfigurasi: [Kr] 4d¹° 5s¹
+Sifat: Logam Transisi
+Fakta: Dalam lebih dari 14
+bahasa termasuk Prancis,
+Thailand,Swahli,& Welsh,
+perak berarti uang 
+
+
+Simbol: Cd
+Nama: Kadmium
+Konfigurasi: [Kr] 4d¹° 5s²
+Sifat: Logam Transisi
+Fakta: Senyawanya digunakan
+sebagai pigmen merah,jingga,
+& kuning untuk mewarnai kaca
+& menstabilkan plastik   
+
+
+Simbol: In
+Nama: Indium
+Konfigurasi: [Kr] 4d¹° 5s² 5p¹
+Sifat: Logam
+Fakta: Merupakan salah satu
+elemen vital yang digunakan
+untuk membuat layar LCD
+
+
+
+Simbol: Sn
+Nama: Timah
+Konfigurasi: [Kr] 4d¹° 5s² 5p²
+Sifat: Logam
+Fakta: Pulau penghasil timah
+terbesar di Indonesia adalah
+Bangka Belitung sebagai bahan
+baku pembuatan smartphone
+
+
+Simbol: Sb
+Nama: Antimon
+Konfigurasi: [Kr] 4d¹° 5s² 5p³
+Sifat: Metaloid
+Fakta: Merupakan bahan yang
+digunakan dalam peluru senjata
+& juga baterai
+
+
+
+Simbol: Te
+Nama: Telurium
+Konfigurasi: [Kr] 4d¹° 5s² 5p4  
+Sifat: Metaloid
+Fakta: Unsur & senyawanya yang
+beracun memiliki bau khas yang
+menyerupai bau bawang putih
+
+
+
+Simbol: I
+Nama: Yodium
+Konfigurasi: [Kr] 4d¹° 5s² 5p5 
+Sifat: Halogen
+Fakta: Merupakan unsur yang
+dibutuhkan oleh tubuh manusia
+sebagai zat yang mempengaruhi
+produksi hormon tiroid
+
+
+Simbol: Xe
+Nama: Xenon
+Konfigurasi: [Kr] 4d¹° 5s² 5p6
+Sifat: Gas Mulia
+Fakta: Gas ini digunakan dalam
+pembuatan lampu stoboskopik, &
+lampu yang mengeluarkan laser 
+
+
+
+Simbol: Cs
+Nama: Caesium
+Konfigurasi: [Xe] 6s¹
+Sifat: Logam Alkali
+Fakta: Elemen yang digunakan
+sebagai riset pengobatan
+kanker ini pernah menorehkan
+tinta hitam sejarah terkait
+tragedi Chernobyl di Ukraina
+
+Simbol: Ba
+Nama: Barium
+Konfigurasi: [Xe] 6s²
+Sifat: Alkali Tanah
+Fakta: Hampir semua senyawa
+barium beracun, kecuali
+Barium Sulfat yang digunakan
+sebagai obat untuk gangguan
+pencernaan
+
+Simbol: La
+Nama: Lantanum
+Konfigurasi: [Xe] 5d¹ 6s²
+Sifat: Lantanida
+Fakta: Salah satu unsur
+penyusun logam tanah jarang
+yang merupakan komponen
+iPhone & rudal
+
+
+Simbol: Ce
+Nama: Cerium
+Konfigurasi: [Xe] 4f¹ 5d¹ 6s²
+Sifat: Lantanida
+Fakta: Salah satu unsur
+penyusun logam tanah jarang
+yang merupakan komponen
+iPhone & rudal
+
+
+Simbol: Pr
+Nama: Praseodymium
+Konfigurasi: [Xe] 4f³ 6s²
+Sifat: Lantanida
+Fakta: Salah satu unsur
+penyusun logam tanah jarang
+yang merupakan komponen
+iPhone & rudal
+
+
+Simbol: Nd
+Nama: Neodymium
+Konfigurasi: [Xe] 4f4 6s²
+Sifat: Lantanida
+Fakta: Digunakan bersamaan
+dengan besi & boron untuk
+menciptakan magnet permanen
+yang kuat
